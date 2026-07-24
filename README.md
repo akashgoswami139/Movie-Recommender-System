@@ -52,13 +52,6 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-
-Open the notebook
-
-```bash
-jupyter notebook
-```
-
 Run **Movie_Recommender_System.ipynb**
 
 ## Future Improvements
